@@ -1,0 +1,14 @@
+.title {
+  font-family: arial;
+  background-color: #0099cc;
+  position: fixed;
+}
+
+.title li {
+    display: inline;
+}
+
+.news-heads {
+  padding-top: 50px;
+  font-family: arial;
+}

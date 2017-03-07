@@ -1,0 +1,44 @@
+.nav-bar {
+  font-family: arial;
+  background-color: #0099cc;
+  color: white;
+  position: fixed;
+  width: 100%;
+  overflow-x: auto;
+  z-index: 999;
+  box-sizing: border-box;
+  top: 0;
+}
+
+
+
+.nav-bar li {
+  display: inline;
+  padding: 5px 20px;
+}
+
+.ad {
+  padding-top: 100px;
+  font-family: arial;
+  text-align: center;
+  background-image: url("https://pbs.twimg.com/media/C2DpCHMWgAASJlp.jpg");
+  background-size: cover;
+  color: white;
+  padding-bottom: 300px;
+}
+
+.news {
+  font-family: arial;
+  float: left;
+  width: 80%;
+}
+
+.news h1 {
+  text-align: center;
+}
+
+.twitter {
+  float: right;
+  height: 500px;
+  overflow: scroll;
+}
