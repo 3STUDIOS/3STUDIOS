@@ -42,3 +42,12 @@
   height: 500px;
   overflow: scroll;
 }
+
+.teams {
+  float: bottom;
+  font-family: arial;
+}
+
+.teams:hover {
+  font-weight: bold;
+}
