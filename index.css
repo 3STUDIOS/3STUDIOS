@@ -28,6 +28,7 @@
 }
 
 .news {
+  overflow: hidden;
   font-family: arial;
   float: left;
   width: 75%;
