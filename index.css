@@ -31,8 +31,6 @@
   font-family: arial;
   float: left;
   width: 75%;
-  overflow: scroll;
-  border: 5px blue dashed
 }
 
 .news h1 {
@@ -43,6 +41,5 @@
   float: right;
   height: 400px;
   overflow: scroll;
-  border: 5px red dashed;
 }
 
