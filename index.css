@@ -39,12 +39,8 @@
 }
 
 .twitter {
-  float: right;
+  float: left;
   height: 400px;
   overflow: scroll;
 }
 
-.teams {
-  float: bottom;
-  font-family: arial;
-}
