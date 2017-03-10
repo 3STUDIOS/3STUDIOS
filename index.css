@@ -39,7 +39,7 @@
 }
 
 .twitter {
-  float: left;
+  float: right;
   height: 400px;
   overflow: scroll;
 }
