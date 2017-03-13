@@ -35,6 +35,7 @@
 }
 
 .news h1 {
+  overflow: scroll;
   text-align: center;
 }
 
