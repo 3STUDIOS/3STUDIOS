@@ -43,16 +43,7 @@
 }
 
 .link-bar {
-  background-color: #0099cc;
-  float: bottom;
-  display: inline;
-  font-family: arial;
-  color: white;
-  width: 100%;
-  overflow-x: auto;
-  z-index: 999;
-  top: 0;
-  box-sizing: border-box;
-  width: 100%;
-  bottom: 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
