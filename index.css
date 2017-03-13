@@ -38,7 +38,6 @@
 
 .twitter {
   float: right;
-  height: 400px;
   overflow: scroll;
 }
 
@@ -49,4 +48,7 @@
   font-family: arial;
   display: inline;
   background-color: #0099cc;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
