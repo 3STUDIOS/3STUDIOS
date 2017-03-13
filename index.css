@@ -38,6 +38,7 @@
 
 .twitter {
   float: right;
+  height: 100%;
   overflow: scroll;
 }
 
