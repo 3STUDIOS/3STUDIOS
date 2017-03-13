@@ -47,4 +47,6 @@
   bottom: 0;
   width: 100%;
   font-family: arial;
+  display: inline;
+  background-color: #0099cc;
 }
