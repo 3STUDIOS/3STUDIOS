@@ -42,14 +42,3 @@
   overflow: scroll;
 }
 
-.link-bar {
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-  font-family: arial;
-  display: inline;
-  background-color: #0099cc;
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
