@@ -26,14 +26,13 @@
 }
 
 .news {
-  overflow: hidden;
+  overflow: scroll;
   font-family: arial;
   float: left;
   width: 75%;
 }
 
 .news h1 {
-  overflow: scroll;
   text-align: center;
 }
 
@@ -55,11 +54,6 @@
   top: 0;
   box-sizing: border-box;
   width: 100%;
-}
+  bottom: 0;
 
-.link-bar ul {
-    position: fixed;
-    bottom: 0;
-    width: 100%;
 }
-
