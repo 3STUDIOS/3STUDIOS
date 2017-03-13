@@ -42,3 +42,18 @@
   height: 400px;
   overflow: scroll;
 }
+
+.link-bar {
+  background-color: #0099cc;
+  float: bottom;
+  display: inline;
+  font-family: arial;
+  color: white;
+  position: fixed;
+  width: 100%;
+  overflow-x: auto;
+  z-index: 999;
+  top: 0;
+  box-sizing: border-box;
+  width: 100%;
+}
