@@ -14,16 +14,6 @@
   display: inline;
   padding: 5px 20px;
 }
-a {
-  text-decoration: none;
-  color: white;
-  font-family: arial;
-}
-
-a:hover {
-  color: #e2ba06;
-  font-weight: bold;
-}
 
 .planning {
   padding-top: 100px;
