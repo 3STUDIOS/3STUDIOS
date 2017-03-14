@@ -1,14 +1,11 @@
-.title {
+.back-to-home {
   font-family: arial;
   background-color: #0099cc;
+  color: white;
   position: fixed;
-}
-
-.title li {
-    display: inline;
-}
-
-.news-heads {
-  padding-top: 50px;
-  font-family: arial;
+  width: 100%;
+  overflow-x: auto;
+  z-index: 999;
+  box-sizing: border-box;
+  top: 0;
 }
